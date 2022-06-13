@@ -1,0 +1,37 @@
+{
+  "id": "3445700",
+  "name": "地球",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1166092",
+      "name": "星球",
+      "font_class": "xingqiu",
+      "unicode": "e788",
+      "unicode_decimal": 59272
+    },
+    {
+      "icon_id": "1318350",
+      "name": "宇宙星球-14",
+      "font_class": "yuzhouxingqiu-14",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "1318519",
+      "name": "宇宙星球-13",
+      "font_class": "yuzhouxingqiu-13",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "12115569",
+      "name": "外星球",
+      "font_class": "waixingqiu",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    }
+  ]
+}
